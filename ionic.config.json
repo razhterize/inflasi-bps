@@ -1,0 +1,7 @@
+{
+  "name": "inflasi bps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
